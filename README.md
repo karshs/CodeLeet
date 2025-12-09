@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
