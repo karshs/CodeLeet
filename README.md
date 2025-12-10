@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TautCoder/CodeLeet/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
