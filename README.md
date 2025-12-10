@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/TautCoder/CodeLeet/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/TautCoder/CodeLeet/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -41,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/TautCoder/CodeLeet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
