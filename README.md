@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/TautCoder/CodeLeet/tree/master/0127-word-ladder) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/TautCoder/CodeLeet/tree/master/0127-word-ladder) |
 | [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
 ## Linked List
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/TautCoder/CodeLeet/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/TautCoder/CodeLeet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TautCoder/CodeLeet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
