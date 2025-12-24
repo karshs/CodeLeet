@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
+| [3074-apple-redistribution-into-boxes](https://github.com/TautCoder/CodeLeet/tree/master/3074-apple-redistribution-into-boxes) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/TautCoder/CodeLeet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/TautCoder/CodeLeet/tree/master/0542-01-matrix) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/TautCoder/CodeLeet/tree/master/3074-apple-redistribution-into-boxes) |
+## Sorting
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/TautCoder/CodeLeet/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
