@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TautCoder/CodeLeet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/TautCoder/CodeLeet/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/TautCoder/CodeLeet/tree/master/0204-count-primes) |
 | [0542-01-matrix](https://github.com/TautCoder/CodeLeet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TautCoder/CodeLeet/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TautCoder/CodeLeet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/TautCoder/CodeLeet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TautCoder/CodeLeet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/TautCoder/CodeLeet/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/TautCoder/CodeLeet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/TautCoder/CodeLeet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TautCoder/CodeLeet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TautCoder/CodeLeet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TautCoder/CodeLeet/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
 ## Graph
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TautCoder/CodeLeet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/TautCoder/CodeLeet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
