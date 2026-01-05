@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
 | [1929-concatenation-of-array](https://github.com/TautCoder/CodeLeet/tree/master/1929-concatenation-of-array) |
+| [1975-maximum-matrix-sum](https://github.com/TautCoder/CodeLeet/tree/master/1975-maximum-matrix-sum) |
 | [2942-find-words-containing-character](https://github.com/TautCoder/CodeLeet/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TautCoder/CodeLeet/tree/master/3074-apple-redistribution-into-boxes) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/TautCoder/CodeLeet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TautCoder/CodeLeet/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/TautCoder/CodeLeet/tree/master/0840-magic-squares-in-grid) |
 | [1020-number-of-enclaves](https://github.com/TautCoder/CodeLeet/tree/master/1020-number-of-enclaves) |
+| [1975-maximum-matrix-sum](https://github.com/TautCoder/CodeLeet/tree/master/1975-maximum-matrix-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1975-maximum-matrix-sum](https://github.com/TautCoder/CodeLeet/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/TautCoder/CodeLeet/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
